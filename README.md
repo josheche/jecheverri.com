@@ -3,11 +3,11 @@
 a [Sails](http://sailsjs.org) application
 
 
-###start the app locally
+### start the app locally
 
 `sails lift`
 
-###deploy the app to heroku
+### deploy the app to heroku
 
 assuming app is in a published git repo
 
@@ -31,6 +31,6 @@ assuming app is in a published git repo
 - deploy to heroku
 `git push heroku master`
 
-###issues / deploy to other hosting providers
+### issues / deploy to other hosting providers
 
 http://sailsjs.org/documentation/concepts/deployment/hosting
